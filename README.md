@@ -1,6 +1,6 @@
 
 ## LSTF-STGCN method.
-This project's data is Shenzhen Luohu traffic flow.csv
+This project's data is Shenzhen Luohu district traffic flow.csv
 
 It is raw data of Shenzhen traffic flow.
 
